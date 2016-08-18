@@ -2,20 +2,19 @@
 description: >-
   Feminine Economics is a virtual salon inspired by a curiosity to explore how
   our economic systems can serve us better.
-dateModified: '2016-08-18T19:44:52.839Z'
-datePublished: '2016-08-18T19:45:23.032Z'
+dateModified: '2016-08-18T22:42:17.627Z'
+datePublished: '2016-08-18T22:42:18.030Z'
 title: ''
 author: []
 publisher:
   name: Pippa Sorley
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-18-feminine-economics-is-a-virtual-salon-inspired-by-a-curiosit.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: feminine-economics-is-a-virtual-salon-inspired-by-a-curiosit/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e67d967-88c1-4b75-821d-cafd09acb18e.jpg)

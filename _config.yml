@@ -1,16 +1,16 @@
-typography_spectrum: 0.3727598
+typography_spectrum: 0.7475988804362714
 color:
-  saturation: 0.1887934
-  lightness: 0.1182796
-  brandStrength: 0.8592253
+  saturation: 0.14253724715672433
+  lightness: 0.47045044624246657
+  brandStrength: 0.1532731216866523
   brandColors:
-    - '#000000'
-    - '#EAECD5'
-    - '#5A645B'
-    - '#A8AA9C'
-    - '#757F1B'
-  rhythmicContrast: 0.6738351
-layout_spectrum: 0.08402263
+    - '#4B9462'
+    - '#194128'
+    - '#8FB79E'
+    - '#1F1830'
+    - '#6F6086'
+  rhythmicContrast: 0.987676911521703
+layout_spectrum: 0.44197916565462947
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd053aca-feec-40cb-adb8-8131eecae5cf.jpg
 name: Feminine-economics

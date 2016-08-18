@@ -1,0 +1,14 @@
+layout_spectrum: 0.08402263
+color:
+  saturation: 0.1887934
+  lightness: 0.1182796
+  brandStrength: 0.8592253
+  brandColors:
+    - '#000000'
+    - '#EAECD5'
+    - '#5A645B'
+    - '#A8AA9C'
+    - '#757F1B'
+  rhythmicContrast: 0.6738351
+typography_spectrum: 0.3727598
+name: Feminine-economics

@@ -18,5 +18,8 @@ navigation:
   - name: Photography
     url: 'http://www.feminine-economics.com/#!photography/jgkoq'
     type: external
+  - name: Philosophy
+    id: 8aea4a03-534d-44eb-9202-c1a14746fb41
+    type: content
 title: Nurturing Mindful Businesses
 description: Collaboration. It's the new Competition.

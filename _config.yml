@@ -12,5 +12,9 @@ color:
   rhythmicContrast: 0.6738351
 layout_spectrum: 0.08402263
 name: Feminine-economics
+navigation:
+  - name: Photography
+    url: 'http://www.feminine-economics.com/#!photography/jgkoq'
+    type: external
 title: Nurturing Mindful Businesses
 description: Collaboration. It's the new Competition.

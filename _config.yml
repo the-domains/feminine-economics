@@ -1,4 +1,4 @@
-layout_spectrum: 0.08402263
+typography_spectrum: 0.3727598
 color:
   saturation: 0.1887934
   lightness: 0.1182796
@@ -10,5 +10,6 @@ color:
     - '#A8AA9C'
     - '#757F1B'
   rhythmicContrast: 0.6738351
-typography_spectrum: 0.3727598
+layout_spectrum: 0.08402263
 name: Feminine-economics
+description: Collaboration. It's the new Competition.
